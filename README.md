@@ -2,7 +2,7 @@
 
 This is the server used for the Linus application.
 
-[Link](https://github.com/thinkful-ei-jaguar/TaylorP-FirstCapstone) to Linus Application GitHub
+link to Github repo https://github.com/Christopher-Xavier/Bar-client.git
 
 ## API Endpoints
 
